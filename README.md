@@ -1,8 +1,9 @@
-**Food Ordering App**
 
 Overview
 
 The Food Ordering App is a cross-platform mobile application built with React Native and Firebase, designed to provide users with a seamless food ordering experience. It includes secure authentication, real-time order updates, and an admin panel for restaurant owners to manage their orders effectively.
+![Simulator-Screenshot-iPhone-15-P](https://github.com/user-attachments/assets/fe184328-5873-49b8-acaa-9930ee1e95d5)
+
 
 **Features/User Features**
 
