@@ -1,3 +1,47 @@
+Food Ordering App
+
+Overview
+
+The Food Ordering App is a cross-platform mobile application built with React Native and Firebase, designed to provide users with a seamless food ordering experience. It includes secure authentication, real-time order updates, and an admin panel for restaurant owners to manage their orders effectively.
+
+Features
+
+User Features
+
+Cross-Platform Compatibility: Available for both iOS and Android devices.
+
+Seamless Authentication: Supports secure login via Firebase Authentication, including options for email and social media login.
+
+Real-Time Updates: Users can place orders and receive real-time updates on their order status.
+
+User-Friendly Interface: An intuitive and engaging UI for browsing menus and placing orders.
+
+Admin Panel Features
+
+Order Management: Restaurant owners can view, update, and track orders through an admin panel.
+
+Real-Time Data Sync: Integrated with Firestore for efficient and up-to-date order management.
+
+Menu Customization: Easily update menu items and offers.
+
+Technology Stack
+
+Frontend: React Native
+
+Backend: Firebase Authentication and Firestore
+
+Database: Firestore (NoSQL)
+
+Installation
+
+Prerequisites
+
+Node.js and npm/yarn installed
+
+React Native CLI or Expo CLI installed
+
+Firebase project set upss
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
